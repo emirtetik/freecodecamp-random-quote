@@ -1,4 +1,44 @@
-# Getting Started with Create React App
+# Random Quote Uygulaması
+
+![Anasayfa](public/tweet.png)
+
+Bu proje, rastgele tweetleri çekerek kullanıcılara gösteren bir web uygulamasını temsil eder. Bu projeyi geliştirirken React, Sass, Bootstrap ve bir API kullanarak frontend becerilerimi geliştirmeyi amaçladım.
+
+## Kullanılan Teknolojiler
+
+- **React**: Kullanıcı arayüzünün oluşturulmasında ve dinamik özelliklerin eklenmesinde kullanıldı.
+- **Sass**: Stillemeleri daha modüler ve düzenli hale getirmek amacıyla kullanıldı.
+- **Bootstrap**: Hızlı ve duyarlı tasarım için hazır bileşenler ve stillemeler sağlamak amacıyla kullanıldı.
+- **API**: Rastgele tweetleri çekmek için [quote](https://api.quotable.io/random)] gibi bir API kullanıldı.
+
+## Özellikler
+
+- Rastgele tweetleri çekme ve görüntüleme
+- Basit ve kullanıcı dostu arayüz
+- Responsive tasarım
+
+
+## Kullanım
+
+1. Proje sayfasına gidin: [Random Quote Uygulaması](https://freecodecamp-random-quote.vercel.app/)
+2. Sayfa üzerindeki "New Quote" veya "Yeni Alıntı" butonuna tıklayarak rastgele bir tweet alıntısı görüntüleyin.
+
+## Geliştirme Süreci
+
+1. Gereksinimlerin belirlenmesi ve tasarım oluşturulması
+2. React bileşenlerinin ve sayfa yapısının oluşturulması
+3. Sass stillemelerinin eklenmesi
+4. API entegrasyonunun yapılması ve rastgele tweetleri çeken fonksiyonun oluşturulması
+5. Kod hatalarının ve geliştirmelerin yapılması
+
+## Katkılar
+
+Bu proje, kişisel gelişim amacıyla oluşturulmuştur. Ancak, hatalar veya geliştirmeler
+hakkında önerilerde bulunmak isterseniz, çekme istekleri (pull request) açabilirsiniz.
+
+## Lisans
+
+Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
